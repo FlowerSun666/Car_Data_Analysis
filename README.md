@@ -11,7 +11,7 @@
 
 （2）	对于指定的车型，通过聚类分析找到其竞品车型。
 
-## jupyter notebook 中包含以下内容:
+## Jupyter notebook 中包含:
 
 1- 数据基本信息
 
